@@ -1,0 +1,34 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		System.out.println("Hello java");
+		
+		
+		// ctrl + space --> otomatik doldurma
+		//ctrl + s --> kaydetme
+		// ctrl + alt + aşagı tuşu --> satırı aşağı kopyalamak için 
+		// ctrl + 7 --> çalışmasını istemediğin kodları yoruma almak için 
+		
+		/*
+		 * sdfghjkl
+		 * erfghjkl
+		 * dfghjkl
+		 * vbnmkl
+		 * 
+		 */    //--> burya yazılan her şey yorum olur.
+		
+	}
+
+}
